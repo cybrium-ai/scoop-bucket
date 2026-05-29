@@ -16,6 +16,9 @@ scoop bucket add cybrium https://github.com/cybrium-ai/scoop-bucket
 | `cysense` | Network sensor (requires Npcap on Windows) |
 | `cywave` | Wireless / RF posture scanner |
 | `cyprobe` | OT / IoT discovery scanner |
+| `cymail` | Email security scanner |
+| `cyguard` | Host hardening posture scanner |
+| `cydeep` | Deep packet inspection scanner |
 
 ## Install a tool
 
