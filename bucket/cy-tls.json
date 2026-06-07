@@ -4,7 +4,7 @@
   "homepage": "https://github.com/cybrium-ai/cy-tls",
   "license": "Apache-2.0",
   "url": "https://github.com/cybrium-ai/cy-tls/releases/download/v0.4.0/cy-tls-windows-amd64.exe",
-  "hash": "sha256:f0e7fa07251ae25037b10f85962044343974853e71ec51c976d2d60b15450005",
+  "hash": "sha256:076a49ffb514b838d9a56f1155f9786549bd4a223f914a72a189619970c2cdc2",
   "bin": [["cy-tls-windows-amd64.exe", "cy-tls"]],
   "checkver": "github",
   "autoupdate": {
