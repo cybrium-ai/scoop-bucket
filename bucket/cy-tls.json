@@ -1,10 +1,10 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Cybrium cy-tls — signed Windows SSL/TLS posture scanner",
   "homepage": "https://github.com/cybrium-ai/cy-tls",
   "license": "Apache-2.0",
-  "url": "https://github.com/cybrium-ai/cy-tls/releases/download/v0.5.3/cy-tls-windows-amd64.exe",
-  "hash": "sha256:16ffb115166ff3808abedd0d1f41b1836e6f17c186c04695ecf44d7411812f9b",
+  "url": "https://github.com/cybrium-ai/cy-tls/releases/download/v0.5.4/cy-tls-windows-amd64.exe",
+  "hash": "sha256:c3448d17d6b519d42af0f85ae54e3baa6ed54981179a68d06dab150b175c7ad3",
   "bin": [["cy-tls-windows-amd64.exe", "cy-tls"]],
   "checkver": "github",
   "autoupdate": {
